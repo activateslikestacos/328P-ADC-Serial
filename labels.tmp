@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega328P</DEVICE>
+ <WORKING_DIR>C:\Users\Administrator\Documents\Atmel\Projects\Soda</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>41</LINE></RESET>
+  <ADC_COMPLETE><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>171</LINE></ADC_COMPLETE>
+  <SPI_COMPLETE><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>351</LINE></SPI_COMPLETE>
+  <MAIN><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>137</LINE></MAIN>
+  <SRAM_READ><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>278</LINE></SRAM_READ>
+  <SRAM_STORE><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>205</LINE></SRAM_STORE>
+  <S_STORE_SKIP><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>274</LINE></S_STORE_SKIP>
+  <POINTER_RESET><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>234</LINE></POINTER_RESET>
+  <NO_POINTER_RESET><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>244</LINE></NO_POINTER_RESET>
+  <SKIP_WPOINTER_COPY><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>250</LINE></SKIP_WPOINTER_COPY>
+  <BUFFER_FULL><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>263</LINE></BUFFER_FULL>
+  <S_STORE_END><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>268</LINE></S_STORE_END>
+  <SRAM_EMPTY><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>347</LINE></SRAM_EMPTY>
+  <RESET_READ_POINTER><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>307</LINE></RESET_READ_POINTER>
+  <NO_READ_RESET><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>318</LINE></NO_READ_RESET>
+  <NO_READ_POINTER_COPY><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>324</LINE></NO_READ_POINTER_COPY>
+  <SRAM_CLEARED><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>336</LINE></SRAM_CLEARED>
+  <S_READ_END><FILE>C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm</FILE><LINE>341</LINE></S_READ_END>
+ </LABELS>
+</ASSEMBLER_INFO>

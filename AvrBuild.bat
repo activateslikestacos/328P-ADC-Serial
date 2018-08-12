@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\Administrator\Documents\Atmel\Projects\Soda\labels.tmp" -fI -W+ie -C V2E -o "C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.hex" -d "C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.obj" -e "C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.eep" -m "C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.map" "C:\Users\Administrator\Documents\Atmel\Projects\Soda\Soda.asm"
